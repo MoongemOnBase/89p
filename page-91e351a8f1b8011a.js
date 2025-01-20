@@ -203,7 +203,7 @@
                         playsInline: !0,
                         className: "object-cover w-full h-full",
                         style: {filter: "brightness(0.5)"},
-                        children: (0, a.jsx)("source", {src: "/video.mov", type: "video/mp4"})
+                        children: (0, a.jsx)("source", {src: "video.mov", type: "video/mp4"})
                     }), (0, a.jsx)("button", {
                         onClick: () => {
                             n.current && (n.current.muted = !n.current.muted, t(!e))
