@@ -1,0 +1,104 @@
+Uri: https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\token.project89.org\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v20/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxjPQ.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\jetbrainsmono\v20\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8-qxjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v20/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtjPQ.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\jetbrainsmono\v20\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8FqtjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v20/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8lqxjPQ.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\jetbrainsmono\v20\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8lqxjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jetbrainsmono/v20/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\jetbrainsmono\v20\tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/orbitron/v31/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6xpg.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\orbitron\v31\yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6xpg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/orbitron/v31/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyKS6xpg.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\orbitron\v31\yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyKS6xpg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/orbitron/v31/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyxSmxpg.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\orbitron\v31\yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyxSmxpg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/orbitron/v31/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1ny_Cmxpg.ttf
+File Name: C:\Downloaded Web Sites\token.project89.org\s\orbitron\v31\yMJMMIlzdpvBhQQL_SC3X9yhF25-T1ny_Cmxpg.ttf
+Content Type: font/ttf
+
+Uri: https://token.project89.org/
+File Name: C:\Downloaded Web Sites\token.project89.org\index.htm
+Content Type: text/html
+
+Uri: https://token.project89.org/agents/field-agent.jpg
+File Name: C:\Downloaded Web Sites\token.project89.org\agents\field-agent.jpg
+Content Type: image/jpeg
+
+Uri: https://token.project89.org/agents/initiate-agent.png
+File Name: C:\Downloaded Web Sites\token.project89.org\agents\initiate-agent.png
+Content Type: image/png
+
+Uri: https://token.project89.org/agents/master-agent.png
+File Name: C:\Downloaded Web Sites\token.project89.org\agents\master-agent.png
+Content Type: image/png
+
+Uri: https://token.project89.org/agents/senior-agent.jpg
+File Name: C:\Downloaded Web Sites\token.project89.org\agents\senior-agent.jpg
+Content Type: image/jpeg
+
+Uri: https://token.project89.org/favicon.png
+File Name: C:\Downloaded Web Sites\token.project89.org\favicon.png
+Content Type: image/png
+
+Uri: https://token.project89.org/swarm-image.jpeg
+File Name: C:\Downloaded Web Sites\token.project89.org\swarm-image.jpeg
+Content Type: image/jpeg
+
+Uri: https://token.project89.org/video.mov
+File Name: C:\Downloaded Web Sites\token.project89.org\video.mov
+Content Type: video/quicktime
+
+Uri: https://token.project89.org/_next/static/chunks/27-5b923d90a286e763.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\27-5b923d90a286e763.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/chunks/69-39a2a83a2af28ef6.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\69-39a2a83a2af28ef6.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/chunks/app/layout-963fd20f49fea6cd.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\app\layout-963fd20f49fea6cd.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/chunks/app/page-91e351a8f1b8011a.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\app\page-91e351a8f1b8011a.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/chunks/fd9d1056-28d8581e6e02654e.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\fd9d1056-28d8581e6e02654e.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/chunks/main-app-c18a6f612fc47fbd.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\main-app-c18a6f612fc47fbd.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/chunks/webpack-cca2997dfb20076c.js
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\chunks\webpack-cca2997dfb20076c.js
+Content Type: application/javascript
+
+Uri: https://token.project89.org/_next/static/css/2eef8a83a49cc7bf.css
+File Name: C:\Downloaded Web Sites\token.project89.org\_next\static\css\2eef8a83a49cc7bf.css
+Content Type: text/css
+
