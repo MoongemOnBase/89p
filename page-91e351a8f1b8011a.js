@@ -270,7 +270,7 @@
                                 children: "Join the Project on Virtuals"
                             }), (0, a.jsx)("div", {className: "absolute inset-0 bg-accent group-hover:animate-glitch"})]
                         }), (0, a.jsx)("a", {
-                            href: "https://www.project89.org",
+                            href: "https://project89.pro/",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "bg-dark-200 text-accent px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-dark-100 transition-colors",
