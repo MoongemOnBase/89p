@@ -261,13 +261,13 @@
                     }), (0, a.jsxs)("div", {
                         className: "flex flex-col gap-4 max-w-xs mx-auto",
                         children: [(0, a.jsxs)("a", {
-                            href: "https://app.virtuals.io/prototypes/0x685584631F2238e6f20b8E1b7Fd5a30a06D422AC",
+                            href: "https://pump.fun/coin/AA5gfxBFjsAiZLPtCaG5niid3CWo2Vcbf4sPQnQMpump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "bg-accent text-dark px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors relative overflow-hidden group",
                             children: [(0, a.jsx)("span", {
                                 className: "relative z-10",
-                                children: "Join the Project on Virtuals"
+                                children: "Join the Project on Pump.fun"
                             }), (0, a.jsx)("div", {className: "absolute inset-0 bg-accent group-hover:animate-glitch"})]
                         }), (0, a.jsx)("a", {
                             href: "https://project89.pro/",
@@ -313,7 +313,7 @@
                     children: "The simulation awaits your contribution. Join Project 89 and help reshape reality."
                 }), (0, a.jsxs)("div", {
                     className: "flex flex-col sm:flex-row gap-4 justify-center", children: [(0, a.jsxs)("a", {
-                        href: "https://app.virtuals.io/prototypes/0x685584631F2238e6f20b8E1b7Fd5a30a06D422AC",
+                        href: "https://pump.fun/coin/AA5gfxBFjsAiZLPtCaG5niid3CWo2Vcbf4sPQnQMpump",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "bg-accent text-dark px-8 py-4 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors inline-flex items-center justify-center",
@@ -322,7 +322,7 @@
                             fill: "currentColor",
                             viewBox: "0 0 24 24",
                             children: (0, a.jsx)("path", {d: "M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515a.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0a12.64 12.64 0 0 0-.617-1.25a.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057a19.9 19.9 0 0 0 5.993 3.03a.078.078 0 0 0 .084-.028a14.09 14.09 0 0 0 1.226-1.994a.076.076 0 0 0-.041-.106a13.107 13.107 0 0 1-1.872-.892a.077.077 0 0 1-.008-.128a10.2 10.2 0 0 0 .372-.292a.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127a12.299 12.299 0 0 1-1.873.892a.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028a19.839 19.839 0 0 0 6.002-3.03a.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.956-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419c0-1.333.955-2.419 2.157-2.419c1.21 0 2.176 1.096 2.157 2.42c0 1.333-.946 2.418-2.157 2.418z"})
-                        }), "View on Virtuals"]
+                        }), "View on Pump.fun"]
                     }), (0, a.jsx)("button", {
                         onClick: () => {
                             let e = document.getElementById("whitepaper");
@@ -494,11 +494,11 @@
                                 className: "text-gray-300 hover:text-accent transition-colors font-jetbrains",
                                 children: "Whitepaper"
                             }), (0, a.jsx)("a", {
-                                href: "https://app.virtuals.io/prototypes/0x685584631F2238e6f20b8E1b7Fd5a30a06D422AC",
+                                href: "https://pump.fun/coin/AA5gfxBFjsAiZLPtCaG5niid3CWo2Vcbf4sPQnQMpump",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "bg-accent text-dark px-4 py-2 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors",
-                                children: "Join Virtuals"
+                                children: "Join Pump.fun"
                             })]
                         }), (0, a.jsx)("div", {
                             className: "md:hidden flex items-center",
@@ -554,11 +554,11 @@
                             className: "block w-full text-left px-3 py-2 text-gray-300 hover:text-accent font-jetbrains",
                             children: "Whitepaper"
                         }), (0, a.jsx)("a", {
-                            href: "https://app.virtuals.io/prototypes/0x685584631F2238e6f20b8E1b7Fd5a30a06D422AC",
+                            href: "https://pump.fun/coin/AA5gfxBFjsAiZLPtCaG5niid3CWo2Vcbf4sPQnQMpump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "block w-full px-3 py-2 bg-accent text-dark rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors mt-4",
-                            children: "Join Virtuals"
+                            children: "Join Pump.fun"
                         })]
                     })
                 })]
@@ -853,11 +853,11 @@
                             className: "bg-accent text-dark px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors inline-block",
                             children: "View Whitepaper"
                         }), (0, a.jsx)("a", {
-                            href: "https://app.virtuals.io/prototypes/0x685584631F2238e6f20b8E1b7Fd5a30a06D422AC",
+                            href: "https://pump.fun/coin/AA5gfxBFjsAiZLPtCaG5niid3CWo2Vcbf4sPQnQMpump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "border-2 border-accent text-accent px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-accent/10 transition-colors inline-block",
-                            children: "Join Virtuals"
+                            children: "Join Pump.fun"
                         })]
                     })]
                 })]
