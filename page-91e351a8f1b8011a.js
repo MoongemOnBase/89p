@@ -270,11 +270,11 @@
                                 children: "Join the Project on virtuals.io"
                             }), (0, a.jsx)("div", {className: "absolute inset-0 bg-accent group-hover:animate-glitch"})]
                         }), (0, a.jsx)("a", {
-                            href: "https://project89.pro/",
+                            href: "https://x.com/project_No_89",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "bg-dark-200 text-accent px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-dark-100 transition-colors",
-                            children: "Play"
+                            children: "X"
                         }), (0, a.jsx)("a", {
                             href: "https://github.com/project-89/whitepaper",
                             target: "_blank",
