@@ -267,7 +267,7 @@
                             className: "bg-accent text-dark px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors relative overflow-hidden group",
                             children: [(0, a.jsx)("span", {
                                 className: "relative z-10",
-                                children: "Join the Project on Pump.fun"
+                                children: "Join the Project on virtuals.io"
                             }), (0, a.jsx)("div", {className: "absolute inset-0 bg-accent group-hover:animate-glitch"})]
                         }), (0, a.jsx)("a", {
                             href: "https://project89.pro/",
