@@ -261,7 +261,7 @@
                     }), (0, a.jsxs)("div", {
                         className: "flex flex-col gap-4 max-w-xs mx-auto",
                         children: [(0, a.jsxs)("a", {
-                            href: "https://app.virtuals.io/prototypes/",
+                            href: "https://app.virtuals.io/prototypes/U8qrzsG9Uk34tCdYYJJmrTyK9VFR7nKuQSr1BjZvirt",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "bg-accent text-dark px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors relative overflow-hidden group",
@@ -313,7 +313,7 @@
                     children: "The simulation awaits your contribution. Join Project 89 and help reshape reality."
                 }), (0, a.jsxs)("div", {
                     className: "flex flex-col sm:flex-row gap-4 justify-center", children: [(0, a.jsxs)("a", {
-                        href: "https://app.virtuals.io/prototypes/",
+                        href: "https://app.virtuals.io/prototypes/U8qrzsG9Uk34tCdYYJJmrTyK9VFR7nKuQSr1BjZvirt",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "bg-accent text-dark px-8 py-4 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors inline-flex items-center justify-center",
@@ -494,7 +494,7 @@
                                 className: "text-gray-300 hover:text-accent transition-colors font-jetbrains",
                                 children: "Whitepaper"
                             }), (0, a.jsx)("a", {
-                                href: "https://app.virtuals.io/prototypes/",
+                                href: "https://app.virtuals.io/prototypes/U8qrzsG9Uk34tCdYYJJmrTyK9VFR7nKuQSr1BjZvirt",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "bg-accent text-dark px-4 py-2 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors",
@@ -554,7 +554,7 @@
                             className: "block w-full text-left px-3 py-2 text-gray-300 hover:text-accent font-jetbrains",
                             children: "Whitepaper"
                         }), (0, a.jsx)("a", {
-                            href: "https://app.virtuals.io/prototypes/",
+                            href: "https://app.virtuals.io/prototypes/U8qrzsG9Uk34tCdYYJJmrTyK9VFR7nKuQSr1BjZvirt",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "block w-full px-3 py-2 bg-accent text-dark rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors mt-4",
@@ -853,7 +853,7 @@
                             className: "bg-accent text-dark px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-accent/90 transition-colors inline-block",
                             children: "View Whitepaper"
                         }), (0, a.jsx)("a", {
-                            href: "https://app.virtuals.io/prototypes/",
+                            href: "https://app.virtuals.io/prototypes/U8qrzsG9Uk34tCdYYJJmrTyK9VFR7nKuQSr1BjZvirt",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "border-2 border-accent text-accent px-8 py-3 rounded-md font-jetbrains font-medium hover:bg-accent/10 transition-colors inline-block",
